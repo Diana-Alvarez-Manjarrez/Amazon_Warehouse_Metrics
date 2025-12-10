@@ -58,7 +58,8 @@ The project includes dashboards focused on:<br>
 •	Incident distribution by shift <br>
 •	Root cause drivers <br>
 Each filter allows filteration and drill down to identify specific problem areas <br>
-<a href= "https://github.com/Diana-Alvarez-Manjarrez/Amazon_Warehouse_Metrics/blob/main/amazon%20dash.png"> View Dashbiard </a>
+<a href= "https://github.com/Diana-Alvarez-Manjarrez/Amazon_Warehouse_Metrics/blob/main/amazon%20dash.png"> Dashboard 1 </a>
+<a href= "
 
 ## Key Findings & Insights
 Some of the most important insights discovered: <br>
