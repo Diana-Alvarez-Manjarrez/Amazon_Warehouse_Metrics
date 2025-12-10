@@ -8,7 +8,7 @@ The purpose of this project is to analyze workplace safety incidents at an Amazo
 What are the primary drivers of workplace injuries at the Amazon HOU5 warehouse and where should safety resources be focused?
 
 ## Why is it important?
-Workplace injuries can effect:
+Workplace injuries can effect:<br>
 •	Employee health and morale <br>
 •	Operational efficiency <br>
 •	Medical and worker’s compensation costs <br>
