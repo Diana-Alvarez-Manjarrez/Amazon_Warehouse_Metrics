@@ -50,7 +50,7 @@ o	Hazard <br>
 o	Severity <br>
 
 ## Dashboards & Key Visualizations
-The project includes dashboards focused on:
+The project includes dashboards focused on:<br>
 •	Total incident trends by year <br>
 •	Top injury types <br>
 •	Leading hazard categories <br>
@@ -58,6 +58,7 @@ The project includes dashboards focused on:
 •	Incident distribution by shift <br>
 •	Root cause drivers <br>
 Each filter allows filteration and drill down to identify specific problem areas <br>
+<a href= "https://github.com/Diana-Alvarez-Manjarrez/Amazon_Warehouse_Metrics/blob/main/amazon%20dash.png"> View Dashbiard </a>
 
 ## Key Findings & Insights
 Some of the most important insights discovered: <br>
