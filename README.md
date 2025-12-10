@@ -34,20 +34,20 @@ This dataset contains internal Amazon warehouse safety records from 2021-2025 an
 ## Data preparation steps
 •	Cleaned inconsistent time formats (AM/PM vs military time) <br>
 •	Grouped shifts into HOU5 4 shifts: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;o	Morning <br>
-&nbsp;&nbsp;&nbsp;&nbsp;o Day <br>
-&nbsp;&nbsp;&nbsp;&nbsp;o Twilight <br>
-&nbsp;&nbsp;&nbsp;&nbsp;o	Night <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Morning <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o Day <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o Twilight <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Night <br>
 •	Standardized hazard and injury type categories <br>
 •	Built calculated fields for: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;o	Total cases <br>
-   o	Percent of Total <br>
-   o	YOY trends <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Total cases <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Percent of Total <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	YOY trends <br>
 •	Created filters for <br>
-   o	Year <br>
-   o	Work area <br>
-   o	Hazard <br>
-   o	Severity <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Year <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Work area <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Hazard <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Severity <br>
 
 ## Dashboard 1 & Key Visualizations
 <img width="1630" height="825" alt="amazon dash" src="https://github.com/user-attachments/assets/579df311-1f70-4eb2-8a2a-a7aa309a48c7" />
