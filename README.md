@@ -43,7 +43,7 @@ This dataset contains internal Amazon warehouse safety records from 2021-2025 an
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Total cases <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Percent of Total <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	YOY trends <br>
-•	Created filters for <br>
+•	Created filters for: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Year <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Work area <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o	Hazard <br>
@@ -74,7 +74,7 @@ This dashboard focused on: <br>
 
 ## Key Findings & Insights
 Some of the most important insights discovered: <br>
-•	Incident distribution is almost evenly spread, indicating that injury risk is not specifically tied to a specific shift but rather is more than likely influenced by task type, volume, or process environment <br>
+•	Incident distribution is almost evenly spread, indicating that injury risk is not specifically tied to a specific shift but rather is more than likely influenced by task type, volume, or process environment. <br>
 •	When drilling down in the incident count line chart we can see seasonal patterns taking place. Notable spikes take place during later months of the year until January and die down in February. This is consistent operational volumes are higher during holiday seasons like Thanksgiving, Christmas, and New Year. <br>
 •	Ergonomic injuries and Gravity related access were  the most common hazard type, indicating strain from repetitive motion lifting and posture and objects not being properly secured on shelves or pallets are driving incidents. <br>
 •	Loading dock work areas consistently showed higher injury rates, indicating operational bottlenecks or training gaps. <br>
@@ -83,7 +83,7 @@ Some of the most important insights discovered: <br>
 
 ## Limitations of the Analysis
 •	The dataset is limited to recorded incidents only. Near misses and unreported injuries are not captured. <br>
-•	Some root causes may be subjective human interpretation
+•	Some root causes may be subjective human interpretation.
 
 ## Conclusion
 The data shows that safety incidents at the warehouse are highly concentrated in specific tasks and work areas, rather than distributed evenly across the facility. Ergonomic-related injuries—such as overexertion, awkward posture, repetitive lifting, and material handling—represent the largest category, indicating that physical strain is embedded into the core workflow. Although many cases remain at the first-aid level, their frequency signals underlying operational inefficiencies, fatigue risk, and process design issues that can quietly impact staffing levels, morale, and throughput. <br><br>
