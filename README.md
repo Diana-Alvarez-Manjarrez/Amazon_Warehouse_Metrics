@@ -34,13 +34,13 @@ This dataset contains internal Amazon warehouse safety records from 2021-2025 an
 ## Data preparation steps
 •	Cleaned inconsistent time formats (AM/PM vs military time) <br>
 •	Grouped shifts into HOU5 4 shifts: <br>
- &nbsp;&nbsp;o	Morning <br>
- &nbsp;&nbsp;o Day <br>
-o Twilight <br>
-o	Night <br>
+&nbsp;&nbsp;&nbsp;&nbsp;o	Morning <br>
+&nbsp;&nbsp;&nbsp;&nbsp;o Day <br>
+&nbsp;&nbsp;&nbsp;&nbsp;o Twilight <br>
+&nbsp;&nbsp;&nbsp;&nbsp;o	Night <br>
 •	Standardized hazard and injury type categories <br>
 •	Built calculated fields for: <br>
-   o	Total cases <br>
+&nbsp;&nbsp;&nbsp;&nbsp;o	Total cases <br>
    o	Percent of Total <br>
    o	YOY trends <br>
 •	Created filters for <br>
