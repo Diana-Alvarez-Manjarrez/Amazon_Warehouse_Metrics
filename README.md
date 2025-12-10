@@ -50,6 +50,8 @@ o	Hazard <br>
 o	Severity <br>
 
 ## Dashboards & Key Visualizations
+<img width="1630" height="825" alt="amazon dash" src="https://github.com/user-attachments/assets/579df311-1f70-4eb2-8a2a-a7aa309a48c7" />
+
 The project includes dashboards focused on:<br>
 •	Total incident trends by year <br>
 •	Top injury types <br>
@@ -58,8 +60,6 @@ The project includes dashboards focused on:<br>
 •	Incident distribution by shift <br>
 •	Root cause drivers <br>
 Each filter allows filteration and drill down to identify specific problem areas <br>
-<a href= "https://github.com/Diana-Alvarez-Manjarrez/Amazon_Warehouse_Metrics/blob/main/amazon%20dash.png"> Dashboard 1 </a>   
-<a href= "https://github.com/Diana-Alvarez-Manjarrez/Amazon_Warehouse_Metrics/blob/main/amazon%20dash%202.png"> Dashboard 2 </a> 
 
 ## Key Findings & Insights
 Some of the most important insights discovered: <br>
