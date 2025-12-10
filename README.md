@@ -1,6 +1,6 @@
-Amazon Safety metrics
+# Amazon Safety metrics
 
-Problem Statement
+## Problem Statement
 
 The purpose of this project is to analyze workplace safety incidents at an Amazon fulfillment center. Warehouses are fast paced, high risk environments where injuries can impact employee well-being, productivity, legal liability, and financial performance.
 
