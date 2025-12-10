@@ -4,7 +4,7 @@
 
 The purpose of this project is to analyze workplace safety incidents at an Amazon fulfillment center. Warehouses are fast paced, high risk environments where injuries can impact employee well-being, productivity, legal liability, and financial performance.
 
-## Business Problem:
+## Business Problem:<br>
 What are the primary drivers of workplace injuries at the Amazon HOU5 warehouse and where should safety resources be focused?
 Workplace injuries can effect:
 
@@ -28,7 +28,7 @@ This dataset contains internal Amazon warehouse safety records from 2021-2025 an
 
 ## Tools Used
 •	Tableau <br>
-•	Excel (Data cleaning and formatting)
+•	Excel (Data cleaning and formatting)<br>
 
 ## Data preparation steps
 •	Cleaned inconsistent time formats (AM/PM vs military time) <br>
