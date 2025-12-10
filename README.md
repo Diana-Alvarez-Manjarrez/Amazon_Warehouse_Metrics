@@ -4,7 +4,8 @@
 
 The purpose of this project is to analyze workplace safety incidents at an Amazon fulfillment center. Warehouses are fast paced, high risk environments where injuries can impact employee well-being, productivity, legal liability, and financial performance.
 
-## Business Problem: What are the primary drivers of workplace injuries at the Amazon HOU5 warehouse and where should safety resources be focused?
+## Business Problem:
+What are the primary drivers of workplace injuries at the Amazon HOU5 warehouse and where should safety resources be focused?
 Workplace injuries can effect:
 
 •	Employee health and morale <br>
@@ -26,54 +27,54 @@ This dataset contains internal Amazon warehouse safety records from 2021-2025 an
 
 
 ## Tools Used
-•	Tableau
+•	Tableau <br>
 •	Excel (Data cleaning and formatting)
 
 ## Data preparation steps
-•	Cleaned inconsistent time formats (AM/PM vs military time)
-•	Grouped shifts into HOU5 4 shifts:
-o	Morning
-o	Day
-o	Twilight
-o	Night
-•	Standardized hazard and injury type categories
-•	Built calculated fields for:
-o	Total cases
-o	Percent of Total
-o	YOY trends
-•	Created filters for 
-o	Year
-o	Work area
-o	Hazard
-o	Severity
+•	Cleaned inconsistent time formats (AM/PM vs military time) <br>
+•	Grouped shifts into HOU5 4 shifts: <br>
+o	Morning <br>
+o	Day <br>
+o	Twilight <br>
+o	Night <br>
+•	Standardized hazard and injury type categories <br>
+•	Built calculated fields for: <br>
+o	Total cases <br>
+o	Percent of Total <br>
+o	YOY trends <br>
+•	Created filters for <br>
+o	Year <br>
+o	Work area <br>
+o	Hazard <br>
+o	Severity <br>
 
 ## Dashboards & Key Visualizations
 The project includes dashboards focused on:
-•	Total incident trends by year
-•	Top injury types
-•	Leading hazard categories
-•	High-risk work areas
-•	Incident distribution by shift
-•	Root cause drivers
-Each filter allows filteration and drill down to identify specific problem areas
+•	Total incident trends by year <br>
+•	Top injury types <br>
+•	Leading hazard categories <br>
+•	High-risk work areas <br>
+•	Incident distribution by shift <br>
+•	Root cause drivers <br>
+Each filter allows filteration and drill down to identify specific problem areas <br>
 
 ## Key Findings & Insights
-Some of the most important insights discovered:
-•	Incident distribution is almost evenly spread, indicating that injury risk is not specifically tied to a specific shift but rather is more than likely influenced by task type, volume, or process environment
-•	When drilling down in the incident count line chart we can see seasonal patterns taking place. Notable spikes take place during later months of the year until January and die down in February. This is consistent operational volumes are higher during holiday seasons like Thanksgiving, Christmas, and New Year.
-•	Ergonomic injuries and Gravity related access were  the most common hazard type, indicating strain from repetitive motion lifting and posture and objects not being properly secured on shelves or pallets are driving incidents.
-•	Loading dock work areas consistently showed higher injury rates, indicating operational bottlenecks or training gaps. 
-•	The group with the highest incident counts are employees with 12 months or more.
+Some of the most important insights discovered: <br>
+•	Incident distribution is almost evenly spread, indicating that injury risk is not specifically tied to a specific shift but rather is more than likely influenced by task type, volume, or process environment <br>
+•	When drilling down in the incident count line chart we can see seasonal patterns taking place. Notable spikes take place during later months of the year until January and die down in February. This is consistent operational volumes are higher during holiday seasons like Thanksgiving, Christmas, and New Year. <br>
+•	Ergonomic injuries and Gravity related access were  the most common hazard type, indicating strain from repetitive motion lifting and posture and objects not being properly secured on shelves or pallets are driving incidents. <br>
+•	Loading dock work areas consistently showed higher injury rates, indicating operational bottlenecks or training gaps. <br>
+•	The group with the highest incident counts are employees with 12 months or more. <br>
 •	The root cause chart shows that the leading driver behind incidents is training and knowledge transfer, followed by insufficient standards or procedures, unclear instructions from leadership, and communication gaps.
 
 ## Limitations of the Analysis
-•	The dataset is limited to recorded incidents only. Near misses and unreported injuries are not captured.
+•	The dataset is limited to recorded incidents only. Near misses and unreported injuries are not captured. <br>
 •	Some root causes may be subjective human interpretation
 
 ## Conclusion
-The project was able to successfully identify:
-•	The highest risk hazard types
-•	The most affected work areas
-•	The primary behavioral and environmental root causes
+The project was able to successfully identify: <br>
+•	The highest risk hazard types <br>
+•	The most affected work areas <br>
+•	The primary behavioral and environmental root causes <br>
 Overall this analysis was able to successfully meet the objective by identifying the areas most affected by safety incidents and pinpointing areas where corrective actions should be focused on.
  
