@@ -101,8 +101,8 @@ This approach aligns automation with evidenced risk rather than applying robotic
 2. Strengthen Targeted, On-the-Job Ergonomic Training
 Instead of broad, annual reminders, deploy micro-trainings tailored to the specific behaviors and hazards found in each work area. For example: <br>
 
-Lifting mechanics for pallet-heavy roles <br>
-Posture and wrist alignment for pack stations<br>
-Fatigue management during peak hours<br>
-Safe human–robot interaction as automation increases<br>
-When training aligns with data patterns, compliance and retention improve significantly. 
+•	Lifting mechanics for pallet-heavy roles
+•	Posture and wrist alignment for pack stations
+•	Fatigue management during peak hours
+•	Safe human–robot interaction as automation increases
+
