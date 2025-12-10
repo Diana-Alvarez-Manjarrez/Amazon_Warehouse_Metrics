@@ -98,9 +98,8 @@ To meaningfully reduce injury frequency and improve long-term sustainability, Am
 Target the areas with the highest incident counts—such as packing, picking, and inbound/outbound sorting—for an ARM robotics pilot. These systems can reduce repetitive lifting, twisting, and reach-extending motions, directly lowering the ergonomic load on associates.
 This approach aligns automation with evidenced risk rather than applying robotics arbitrarily.
 
-2. Strengthen Targeted, On-the-Job Ergonomic Training
+2. Strengthen Targeted, On-the-Job Ergonomic Training<br>
 Instead of broad, annual reminders, deploy micro-trainings tailored to the specific behaviors and hazards found in each work area. For example: <br>
-
 •	Lifting mechanics for pallet-heavy roles<br>
 •	Posture and wrist alignment for pack stations<br>
 •	Fatigue management during peak hours<br>
