@@ -4,10 +4,11 @@
 
 The purpose of this project is to analyze workplace safety incidents at an Amazon fulfillment center. Warehouses are fast paced, high risk environments where injuries can impact employee well-being, productivity, legal liability, and financial performance.
 
-## Business Problem:<br>
+## Business Problem<br>
 What are the primary drivers of workplace injuries at the Amazon HOU5 warehouse and where should safety resources be focused?
 
-## Workplace injuries can effect:
+## Why is it important?
+Workplace injuries can effect:
 •	Employee health and morale <br>
 •	Operational efficiency <br>
 •	Medical and worker’s compensation costs <br>
