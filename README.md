@@ -1,4 +1,4 @@
-                                                                                                   # Amazon Safety metrics
+ # Amazon Safety metrics
 
 ## Problem Statement
 
@@ -7,7 +7,7 @@ The purpose of this project is to analyze workplace safety incidents at an Amazo
 ## Business Problem: What are the primary drivers of workplace injuries at the Amazon HOU5 warehouse and where should safety resources be focused?
 Workplace injuries can effect:
 
-•	Employee health and morale
+•	Employee health and morale <br>
 •	Operational efficiency
 •	Medical and worker’s compensation costs
 •	Regulatory compliance and audits
