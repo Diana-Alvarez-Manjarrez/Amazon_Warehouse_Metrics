@@ -49,10 +49,10 @@ o	Work area <br>
 o	Hazard <br>
 o	Severity <br>
 
-## Dashboards & Key Visualizations
+## Dashboard 1 & Key Visualizations
 <img width="1630" height="825" alt="amazon dash" src="https://github.com/user-attachments/assets/579df311-1f70-4eb2-8a2a-a7aa309a48c7" />
 
-The project includes dashboards focused on:<br>
+The dashboard focused on:<br>
 •	Total incident trends by year <br>
 •	Top injury types <br>
 •	Leading hazard categories <br>
@@ -60,6 +60,17 @@ The project includes dashboards focused on:<br>
 •	Incident distribution by shift <br>
 •	Root cause drivers <br>
 Each filter allows filteration and drill down to identify specific problem areas <br>
+
+## Dashboard 2 & Key visualizations
+<img width="1621" height="823" alt="amazon dash 2" src="https://github.com/user-attachments/assets/2ce4ac49-8dfd-4ad0-8155-5328ac434232" />
+
+This dashboard focused on: <br>
+•	Top 5 objects for incidents <br>
+•	Top 3 injuries<br>
+•	Body part Injury<br>
+•	Injury type by incident type<br>
+•	Employee Tenure <br>
+
 
 ## Key Findings & Insights
 Some of the most important insights discovered: <br>
