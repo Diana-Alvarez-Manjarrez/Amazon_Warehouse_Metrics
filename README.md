@@ -1,2 +1,3 @@
-# Amazon_Warehouse_Metrics
-Interactive Tableau dashboard analyzing Amazon warehouse safety incidents (2021–2025) to identify injury trends, hazard drivers, high-risk work areas, and operational safety improvement opportunities.
+#Amazon Safety metrics
+##Problem Statement
+The purpose of this project is to analyze workplace safety incidents at Amazon’s HOU5 fulfillment center in Katy, Texas. Warehouses are fast paced, high risk environments where injuries can impact employee well-being, productivity, legal liability, and financial performance.
