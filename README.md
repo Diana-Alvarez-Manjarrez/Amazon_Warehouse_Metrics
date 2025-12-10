@@ -8,21 +8,21 @@ The purpose of this project is to analyze workplace safety incidents at an Amazo
 Workplace injuries can effect:
 
 •	Employee health and morale <br>
-•	Operational efficiency
-•	Medical and worker’s compensation costs
-•	Regulatory compliance and audits
-•	Business reputation
+•	Operational efficiency <br>
+•	Medical and worker’s compensation costs <br>
+•	Regulatory compliance and audits <br>
+•	Business reputation <br>
 
 ## Dataset Descriptions
-This dataset contains internal Amazon warehouse safety records from 2021-2025 and include information such as:
-•	Type of incident
-•	Hazard Category
-•	Work area 
-•	Department
-•	Root cause of incident
-•	Shift time
-•	Severity
-•	Location and date of incident
+This dataset contains internal Amazon warehouse safety records from 2021-2025 and include information such as: <br>
+•	Type of incident <br> 
+•	Hazard Category <br>
+•	Work area <br>
+•	Department<br>
+•	Root cause of incident<br>
+•	Shift time<br>
+•	Severity<br>
+•	Location and date of incident<br>
 
 
 ## Tools Used
