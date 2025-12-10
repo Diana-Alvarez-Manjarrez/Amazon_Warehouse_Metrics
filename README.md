@@ -86,9 +86,22 @@ Some of the most important insights discovered: <br>
 •	Some root causes may be subjective human interpretation
 
 ## Conclusion
-The project was able to successfully identify: <br>
-•	The highest risk hazard types <br>
-•	The most affected work areas <br>
-•	The primary behavioral and environmental root causes <br>
-Overall this analysis was able to successfully meet the objective by identifying the areas most affected by safety incidents and pinpointing areas where corrective actions should be focused on.
+The data shows that safety incidents at the warehouse are highly concentrated in specific tasks and work areas, rather than distributed evenly across the facility. Ergonomic-related injuries—such as overexertion, awkward posture, repetitive lifting, and material handling—represent the largest category, indicating that physical strain is embedded into the core workflow. Although many cases remain at the first-aid level, their frequency signals underlying operational inefficiencies, fatigue risk, and process design issues that can quietly impact staffing levels, morale, and throughput. <br><br>
+
+Several root-cause patterns also emerge: insufficient ergonomic practice, inconsistent technique during peak-volume periods, and gaps in training reinforcement. These patterns make clear that injuries are not random but predictable and preventable. The data ultimately suggests that the warehouse is functioning, but not at an optimal balance between productivity and associate well-being.
  
+## Reccomendations
+To meaningfully reduce injury frequency and improve long-term sustainability, Amazon should adopt a dual-strategy approach:
+
+1. Implement ARM-Based Robotics in High-Strain Zones
+
+Target the areas with the highest incident counts—such as packing, picking, and inbound/outbound sorting—for an ARM robotics pilot. These systems can reduce repetitive lifting, twisting, and reach-extending motions, directly lowering the ergonomic load on associates.
+This approach aligns automation with evidenced risk rather than applying robotics arbitrarily.
+
+2. Strengthen Targeted, On-the-Job Ergonomic Training
+Instead of broad, annual reminders, deploy micro-trainings tailored to the specific behaviors and hazards found in each work area. For example: <br>
+Lifting mechanics for pallet-heavy roles <br>
+Posture and wrist alignment for pack stations<br>
+Fatigue management during peak hours<br>
+Safe human–robot interaction as automation increases<br>
+When training aligns with data patterns, compliance and retention improve significantly. 
